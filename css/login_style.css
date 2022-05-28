@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: bisque;
+    height: 100%;
+}
+.form2{
+    display: flex;
+    width: 50%;
+    background: beige;
+    margin: 0px auto;
+    align-items: center;
+    text-align: center;
+    
+}
+div label, div input{
+    margin: 20px 0;
+    text-align: center;
+
+}

@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: burlywood;
+}
+.form{
+    margin: 0px auto;
+    width: 80%;
+    margin-top: 100px;
+    vertical-align: middle;
+
+}
+form{
+    display: block;
+    background-color: rgb(151, 148, 143);
+    margin: 0px auto;
+    margin-top: 0px;
+    width: 50%;
+    height: 400px;
+}
+.form div {
+    margin: 6px auto;
+    text-align: center;
+    padding-top: 30px;
+}
+label, input{
+    padding: 5px;
+}
+button{
+    text-align: center;
+    margin: 0px auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+
+
+
